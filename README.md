@@ -46,3 +46,6 @@ This project showcases a gallery of AI-generated images created with Midjourney.
 ### External Libraries
 - **Pico.css**: [Pico.css](https://picocss.com)
 - **Google Fonts**: [Google Fonts](https://fonts.google.com)
+
+## Update Instructions
+Check out [this link](docs/update-instructions.md) for instructions on how to update the html
